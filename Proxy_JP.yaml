@@ -1,0 +1,5 @@
+# 日本IP网站
+payload:
+  # - DOMAIN,eaasserts-a.akamaihd.net
+  # - DOMAIN,originasserts.akamaized.net
+  # - DOMAIN-SUFFIX,battle.net
