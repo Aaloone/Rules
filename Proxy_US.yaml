@@ -1,4 +1,4 @@
 # 美国IP网址
 payload:
   # - DOMAIN,xz.pphimalayanrt.com
-  # - DOMAIN-SUFFIX,battle.net
+  - DOMAIN-SUFFIX,south-plus.net
