@@ -2,3 +2,4 @@
 payload:
   # - DOMAIN,browser-intake-datadoghq.com
   # - DOMAIN-SUFFIX,mifaw.com/
+  - DOMAIN-SUFFIX,temmet.top
