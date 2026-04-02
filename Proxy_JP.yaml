@@ -4,3 +4,7 @@ payload:
   # - DOMAIN,originasserts.akamaized.net
   # - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,yande.re
+  - DOMAIN-SUFFIX,javdb.con
+  - DOMAIN-SUFFIX,prestige-av.com
+  - DOMAIN-SUFFIX,mgstage.com
+    
