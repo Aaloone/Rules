@@ -1,6 +1,7 @@
 payload:
+# 国内分流
   # - DOMAIN,browser-intake-datadoghq.com
   # - DOMAIN-SUFFIX,mifaw.com/
-  - DOMAIN-KEYWORD,temmet
+  - DOMAIN-SUFFIX,temmet.top
   - DOMAIN-SUFFIX,shudugu.org
   # - DOMAIN-KEYWORD,shudugu
