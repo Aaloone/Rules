@@ -1,7 +1,6 @@
-# 国内软件IP
 payload:
   # - DOMAIN,browser-intake-datadoghq.com
   # - DOMAIN-SUFFIX,mifaw.com/
   - DOMAIN-KEYWORD,temmet
   - DOMAIN-SUFFIX,shudugu.org
-  - DOMAIN-KEYWORD,shudugu
+  # - DOMAIN-KEYWORD,shudugu
